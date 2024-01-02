@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manorajkrishan&label=Profile%20views&color=0e75b6&style=flat" alt="manorajkrishan" /> </p>
 <hr>
-- 🔭 I’m currently working on **OOP**
+<ul>
+  <li>🔭 I’m currently working on <b>OOP</b></li>
 
-- 🌱 I’m currently learning **MERN Stack**
+<li>🌱 I’m currently learning <b>MERN Stack</b></li>
 
-- 💬 Ask me about **java**
+<li> 💬 Ask me about <b>java</b></li>
+</ul>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
