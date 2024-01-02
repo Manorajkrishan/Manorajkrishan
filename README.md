@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manorajkrishan&label=Profile%20views&color=0e75b6&style=flat" alt="manorajkrishan" /> </p>
 <hr>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <ul>
   <li>🔭 I’m currently working on <b>OOP</b></li>
 
