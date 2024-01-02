@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manorajkrishan&label=Profile%20views&color=0e75b6&style=flat" alt="manorajkrishan" /> </p>
-
+<hr>
 - 🔭 I’m currently working on **OOP**
 
 - 🌱 I’m currently learning **MERN Stack**
